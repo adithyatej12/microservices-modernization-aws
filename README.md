@@ -1,4 +1,4 @@
-# Cloud Atlas: Monolith to Microservices and CI/CD on AWS
+# Monolith to Microservices and CI/CD on AWS
 
 ## Project Overview
 
